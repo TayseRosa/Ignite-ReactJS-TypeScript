@@ -1,4 +1,4 @@
-<h1 align="center">Ignite - Trilha ReactJS - Módulo 2 - Conceitos Importantes</h1>
+<h1 align="center">Ignite - Trilha ReactJS - Módulo 4 - Typescript</h1>
 
 #Índice
 - [🛠 Sobre o projeto](#-sobre-o-projeto)
@@ -18,6 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] REACT JS
 - [x] WEBPACK
 - [x] BABEL
+- [x] TYPESCRIPT
 
 # 📥 Como usar
 ```js
